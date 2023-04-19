@@ -27,7 +27,7 @@ replace the `api_id` and `api_hash` and `bot_token` sections in the script
 
 #### 💰 Donation Links
 
-<b>BTC</b> : <code>bc1qucxu8r6xza0l38zqsxrq3c6sunx880cm2tj4dr</code></br>
-<b>TRON</b> : <code>TML3NtgE8J6iqR8UFq5JuCthwvbjH6KH7U</code></br>
-<b>USDT(TRC20)</b> : <code>TExYVr8ZPHf9FJcnimD9wnnUTwbBjGZFxk</code></br>
-<b>TON</b> : <code>EQBI-iR-BSVZDffrjlRuhVSIMN9BkAV9uHFWoy-TeIOV978t</code></br></br>
+<b>BTC</b> : `bc1qucxu8r6xza0l38zqsxrq3c6sunx880cm2tj4dr`</br>
+<b>TRON</b> : `TML3NtgE8J6iqR8UFq5JuCthwvbjH6KH7U`</br>
+<b>USDT(TRC20)</b> : `TExYVr8ZPHf9FJcnimD9wnnUTwbBjGZFxk`</br>
+<b>TON</b> : `EQBI-iR-BSVZDffrjlRuhVSIMN9BkAV9uHFWoy-TeIOV978t`</br></br>
