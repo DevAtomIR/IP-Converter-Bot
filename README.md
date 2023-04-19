@@ -8,12 +8,12 @@ Telegram bot to convert IPv4 to IPv6 and IPv6 to IPv4
 ```
 git clone https://github.com/DevAtomIR/IP-Converter-Bot/
 cd IP-Converter-Bot
-pip install -r requirements.txt
+pip install requests pyrogram bs4
 python3 IP-Converter.py
 ```
 
 ## How to use the script
-Install requirements.txt before running the script
+Install `pip install requests pyrogram bs4` before running the script
 
 Edit the backup.py file
 replace the `api_id` and `api_hash` and `bot_token` sections in the script
