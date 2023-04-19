@@ -21,7 +21,7 @@ replace the `api_id` and `api_hash` and `bot_token` sections in the script
 * [To create bot](https://t.me/BotFather)
 ##
 
-* [Developer](https://t.me/DevAtom)
+* [Telegram](https://t.me/DevAtom)
 * [GitHub](https://github.com/DevAtomIR)
 
 
