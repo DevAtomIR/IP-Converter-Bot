@@ -3,9 +3,11 @@ from bs4 import BeautifulSoup
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-api_id = 13415480
-api_hash = "7a6c59032649b4e9177af0e4f675da03"
-bot_token = "5784869466:AAE3itNp1VvSoPe71M80b3Zp7TyLmaqeLyA"
+# Coded by M.A.H
+# ID Telegram : @DevAtom
+api_hash = '7a6c5903264' # your Api Hash
+api_id = 12345 # your Api Id
+bot_token = "123456789:Ab3Zp7TyLmaqeLyA" #your bot token
 
 app = Client("bot", api_id, api_hash, bot_token=bot_token)
 
