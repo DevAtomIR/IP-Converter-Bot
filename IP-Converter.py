@@ -5,8 +5,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Coded by M.A.H
 # ID Telegram : @DevAtom
-api_hash = '7a6c5903264' # your Api Hash
+
 api_id = 12345 # your Api Id
+api_hash = '7a6c5903264' # your Api Hash
 bot_token = "123456789:Ab3Zp7TyLmaqeLyA" #your bot token
 
 app = Client("bot", api_id, api_hash, bot_token=bot_token)
